@@ -8,7 +8,7 @@ This repository contains code for building a simple linear regression model to p
 
 Before running the code, ensure you have the following Python libraries installed:
 
--panda
+-pandas
 
 -scikit-learn
 
